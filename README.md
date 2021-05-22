@@ -10,3 +10,4 @@ issues
 
 Tips
 - 应用中使用了音频及图片资源，在 Github Pages 中加载较慢，耐心等候
+- 播放器在 Edge 浏览器可以正常播放
